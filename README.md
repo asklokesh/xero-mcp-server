@@ -1,5 +1,7 @@
 # Xero MCP Server
 
+<!-- mcp-name: io.github.asklokesh/xero-mcp-server -->
+
 <div align="center">
 
 # Xero Mcp Server
